@@ -2,7 +2,7 @@
 
 ## Scope
 
-This document introduces the scope of different release versions of Form Project form Angular Medellín
+This document introduces the scope of different release versions of Form Project from Angular Medellín
 
 ### V1
 
