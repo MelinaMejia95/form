@@ -1,27 +1,27 @@
-# Feedback Meetup Angular Form 
+![Angular Medellin Logo](https://github.com/angular-medellin/meetup/blob/master/assets/angular-medellin-banner.png?raw=true)
 
-This is a project to create an application, in the version xxx of Angular, to manage the following information of Angular Meetup members:
+# Angular Medellín Form 📝
 
-1. Save the basic information of an event.
-2. Link the events with a form.
-3. Show the general event information inside of the form and let to fill the fields with a verified email.
-4. Let to edit the entry to an event.
-5. Open or close the available state of the form that is linked to an event.
+Form to manage Angular Medellín meetups' sign up process.
 
-# Requirements
+## Features
 
-- Angular version x.xx
+- 🤳 Let people sign up for the event: `Content: Full Name, Email, Food Preference, Phone Number (optional)`
+- ✉️ Send email confirmation after sign up: `Content: Entered information, Event information`
+- 😲 Show general event information including links to relevant information
 
-# Technical Details 
+## Technical Sheet
 
-# Deployment
+- 🔧 Angular version: 4.2.0
+- 🔩 Data layer: Firebase
+- 🔨 Backend technology: Node
+- 💻 Server: Heroku
+- 📫 Email SMTP: Gmail
 
-Contributors
-============
+## Contributors
 
-- Jorge Ramirez
-- Alejandro Ñáñez Ortiz 
-- Juan Herrera
-- Daniel Correa
-- Álvaro Martínez
-
+- 🤵 Jorge Ramirez
+- 🤵 Alejandro Ñáñez Ortiz 
+- 🤵 Juan Herrera
+- 🤵 Daniel Correa
+- 🤵 Álvaro Martínez
